@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 import  spotipy
-from flask.cli import load_dotenv
 from spotipy.oauth2 import SpotifyOAuth
 from dotenv import load_dotenv
 import os
